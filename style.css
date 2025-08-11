@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(imgs/mel-poole-LUPXhXj2ip0-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    text-align: center center;
+    margin-top: -20rem;
+}
+
+.countdown-container {
+    display: flex;
+    gap: 3em;
+    color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+}
+
+.countdown-container > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bigtext {
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+    font-size: 1.2rem;
+}
+
+.colon {
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
