@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url(imgs/mel-poole-LUPXhXj2ip0-unsplash\ \(1\).jpg);
+    background-image: url(mel-poole-LUPXhXj2ip0-unsplash\ \(1\).jpg);
     background-repeat: no-repeat;
     min-height: 100vh;
     background-position: center center;
@@ -52,4 +52,5 @@ span {
     display: flex;
     align-items: center;
     padding-bottom: 20px;
+
 }
